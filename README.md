@@ -45,5 +45,5 @@ This project is created with:
 - **oilpalm_package**: Python file containing essential functions utilized throughout the project.
 - **oilpalm_pipeline**: Project pipeline outlining the workflow and stages involved in the project.
 
-## Utiliazation
+## Utilization
 To utilize this project, please download the dataset from the provided link mentioned above. Subsequently, download the 'oilpalm_package.py' file and execute it using the downloaded file paths.
