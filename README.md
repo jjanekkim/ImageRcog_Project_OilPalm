@@ -8,7 +8,7 @@ This repository contains the Jupyter Notebook for an image recognition project f
 * [General Info](#general-info)
 * [Dependencies](#dependencies)
 * [Project Structure](#project-structure)
-* [Usage](*usage)
+* [Utilization](#utilization)
 
 ## Introduction
 The primary objective of this project is to construct a robust classification model using neural networks to recognize oil palm plantations through image analysis.
@@ -45,5 +45,5 @@ This project is created with:
 - **oilpalm_package**: Python file containing essential functions utilized throughout the project.
 - **oilpalm_pipeline**: Project pipeline outlining the workflow and stages involved in the project.
 
-## Usage
+## Utiliazation
 To utilize this project, please download the dataset from the provided link mentioned above. Subsequently, download the 'oilpalm_package.py' file and execute it using the downloaded file paths.
